@@ -16,7 +16,7 @@ Alongside my bioinformatics research at the University of Pretoria, I work with 
 ## What I Do:
 - **Automated Data Extraction:** Converting static maps and complex PDFs into ready-to-use vector datasets (GeoPackage, GeoJSON) using Python and GDAL.
 - **Remote Sensing:** Processing heavy multi-spectral satellite imagery (Sentinel-1/2) for vegetation index mapping and environmental monitoring.
-- **Geospatial Machine Learning:** Developing predictive models and computer vision workflows to track plantation health and agricultural anomalies.
+- **Geospatial Machine Learning:** Developing predictive models and computer vision workflows to track plantation health and agricultural trends.
 
 ## Tech Stack:
 - **Languages:** Python, R, Bash, SQL
